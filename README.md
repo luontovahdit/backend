@@ -39,9 +39,9 @@ npm start
 
 ### Development roadmap
 
-Implement backend functionality for image CRUD operations against Cloudinary API
-Implement user position with (mobile) Leaflet
-Implement fix for invalid GeoJSON error on fetching GTK ArcGIS data
+* Implement backend functionality for image CRUD operations against Cloudinary API
+* Implement user position with (mobile) Leaflet
+* Implement fix for invalid GeoJSON error on fetching GTK ArcGIS data
 
 ## Built With
 
